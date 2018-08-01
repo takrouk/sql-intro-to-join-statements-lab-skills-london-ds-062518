@@ -14,7 +14,7 @@ In this lab we will practice writing JOIN statements to query across two tables.
 ![](https://img.cinemablend.com/cb/1/2/d/c/d/5/12dcd57724f3c02e6f802dda3d56bd09996e236b062a2214f7c97c3e3f17a690.jpg)
 
 ### Download the Database
-> Download the repo with dabase `superheroes.db` at the link provided. 
+> Download the repo with dabase `superheroes.db` from [this link](https://github.com/learn-co-curriculum/sql-intro-to-join-statements-lab-skills)
 
 > Open the database with SQLite Browser
 
