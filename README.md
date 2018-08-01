@@ -54,7 +54,7 @@ id  |name           |real_identity        |superpower                     |weakn
 
 ## Queries
 
-Write your queries in the "Execute SQL" tab in SQLIte broswer.  
+Write your queries in the "Execute SQL" tab in SQLite broswer.  
 
 #### 1.  `select_hero_names_and_squad_names_of_heroes_belonging_to_a_team`
 
